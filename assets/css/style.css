@@ -1,0 +1,29 @@
+body {
+    background-image: url("../images/wormhole.jpg");
+    font-weight: bolder;
+    margin-top: 25px;
+}
+
+.jumbotron {
+    background: transparent;
+    color: #FFE4B5;
+    border: solid 3px #FFE4B5;
+}
+
+.col-sm-12 {
+    opacity: 0.8;
+}
+
+.panel-warning {
+    color: #000;
+}
+
+.panel {
+    background-color: #fff;
+    opacity: 0.9;
+}
+
+button#submitTrain {
+    background-color: black;
+    outline: none;
+}
